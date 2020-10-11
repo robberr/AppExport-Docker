@@ -1,0 +1,20 @@
+{
+  "name": "app-export-docker",
+  "version": "1.0.0",
+  "description": "AppExport-docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "",
+    "dev": "nodemon && index.js"
+  },
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
